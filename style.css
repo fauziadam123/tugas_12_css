@@ -1,0 +1,8 @@
+header,ul,a{column-count:4; margin :0; list-style: none;
+  text-decoration: none;  color: white;
+   width: 100%; height: 30px; background-color: black;}
+body {background-color:#80ccff;}
+img.slider-img{ padding: 10px; width:1450px; height: auto;margin: 0;}
+img.image{ padding: 10px;float: left;width: 200px; height:200px; column-span: all;}
+p{ column-rule: 1px solid black;column-width: 300px;column-count: 4; padding: 10px; margin: 0; text-align: justify; column-rule: }
+footer{  background-color: black; text-align: center; color: white;}
